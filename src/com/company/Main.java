@@ -80,6 +80,21 @@ public class Main {
 //        }
 
                                                                     //5th
+//        Scanner scanner=new Scanner(System.in);
+//        int[] number=new int[3];
+//        for (int i = 0; i < number.length; i++) {
+//            System.out.println("please enter number");
+//            number[i]=scanner.nextInt();
+//        }
+//        int counter=0;
+//        for (int i = 0; i <number.length ; i++) {
+//            if (number[i]%number[i]==counter)
+//                System.out.println(counter);
+//
+//        }
+
+
+        //5th
         Scanner scanner=new Scanner(System.in);
         int[] number=new int[3];
         for (int i = 0; i < number.length; i++) {
@@ -92,9 +107,6 @@ public class Main {
                 System.out.println(counter);
 
         }
-
-
-
 
     }
 }
